@@ -1,0 +1,6 @@
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.user=PREP2021A@gmail.com
+mail.smtp.password=sistemaprep2021a.
+mail.smtp.starttls.enable=true
+mail.smtp.auth=true
