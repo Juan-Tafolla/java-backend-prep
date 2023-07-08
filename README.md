@@ -1,6 +1,6 @@
-# java-backend-prep
-This is an old college project (Q1-2021) that I'm proud of my team's work.
+# Java-Backend-PREP
+This project dates back to my college days (Q1-2021), and it's one I'm particularly proud of due to the teamwork involved.
 
-We we're assigned by 4 different classes to do a big project, a PREP, which stands for "Programa de Resultados Electorales Preliminares" in Spanish, which translates to "Preliminary Electoral Results Program" in English.
+We were assigned by four different classes to complete a significant project, a PREP, which stands for "Programa de Resultados Electorales Preliminares" in Spanish, translating to "Preliminary Electoral Results Program" in English.
 
-We we're a team of 4, 2 colleagues on the front-end, 1 colleague on the database, and I, working with the back-end, all of which was developed using Java 8, with Servlets and HTTP Request, with an MVC pattern, Glassfish, Apache Tomcat and NetBeans IDE.
+Our team consisted of four members: two colleagues were responsible for the front-end, one managed the database, and I was tasked with the back-end. The project was developed using Java 8, Servlets, and HTTP Requests, adhering to an MVC pattern. We utilized Glassfish and Apache Tomcat servers with the NetBeans IDE for development.
